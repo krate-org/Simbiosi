@@ -1,0 +1,8 @@
+site_name: "Simbiosis"
+site_description: "Simbiosis"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
